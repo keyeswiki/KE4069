@@ -17,11 +17,8 @@ Kidsblock的主要特点包括丰富的传感器和模块支持，用户可以�
 
 ## 4. 代码说明  
 
-**代码下载**
-![](kidsblock/code/Film%20Pressure.sb3)
+[代码下载](kidsblock/code/Film%20Pressure.sb3)
 
-
-![](kidsblock/code/Film%20Pressure.png)
 
 
 ### 4.1 创建变量  
